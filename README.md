@@ -4,7 +4,7 @@ This small repo hold a few files to use the gpt-2 simple package to fine tune GP
 
 
 **NOTE:** To reproduce the environment used in Windows, create a new environment with
-``conda create --name gpt2 --file pkgs.txt
+``conda create --name gpt2 --file pkgs.txt``
 
 Or
 
